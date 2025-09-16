@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last%20commit-june-blue" alt="last commit june">
   <img src="https://img.shields.io/badge/Updated-May-green" alt="Updated May">
-  <img src="https://img.shields.io/badge/JavaScript-100%-yellow" alt="JavaScript 100%">
+<img src="https://img.shields.io/badge/JavaScript-100%25-yellow" alt="JavaScript 100%">
   <img src="https://img.shields.io/badge/languages-1-orange" alt="languages 1">
 </p>
 
@@ -150,9 +150,12 @@ For support, email support@yourcompany.com or join our Telegram channel.
 This tool is for educational and legitimate business purposes only. Users are responsible for complying with Facebook's Terms of Service and applicable laws.
 
 ---
+<p align="center"><strong>Powered by <a href="https://hiubdn.com">hiubdn.com</a> - Enhanced Version</strong></p>
 
-**Made with ❤️ by _hiubdn **
+<p align="center"><em>Copyright hiubdn.com - All rights reserved</em></p>
 
+<p align="center">
 <img src="https://img.shields.io/github/stars/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub stars">
 <img src="https://img.shields.io/github/forks/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub forks">
 <img src="https://img.shields.io/github/issues/yourusername/facebook-bm-admin-tool?style=social" alt="GitHub issues">
+</p>
