@@ -1,4 +1,4 @@
-<h1 align="center">🚀 FACEBOOK BUSINESS MANAGER ADMIN TOOL</h1>
+<h1 align="center">FACEBOOK BUSINESS MANAGER ADMIN TOOL</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20commit-june-blue" alt="last commit june">
