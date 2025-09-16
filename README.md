@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@yourcompany.com or join our Telegram channel.
+For support, email support@hiubdn.com or join our Telegram channel.
 
 ## Disclaimer
 
